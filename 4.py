@@ -1,7 +1,6 @@
 n,k = map(int, input().split())
 a = list(map(int, input().split()))
 b = list(map(int, input().split()))
-count = 0
 
 for j in range(0,k):
     for i in range(0,n):
